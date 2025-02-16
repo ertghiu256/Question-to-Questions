@@ -17,7 +17,6 @@
    - [With Other AI Runners](#with-other-ai-runners)
 5. [System Prompt Format](#system-prompt-format)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ---
 
@@ -166,3 +165,8 @@ Let me provide you with my neat and concise conclusion.
 **Conclusion**: [Provide a concise conclusion and review the answer.]
 </answer>
 ```
+
+---
+
+## Contributing 
+Just modify the `system-prompt.txt` and save it as a branch 
