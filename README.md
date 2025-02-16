@@ -1,4 +1,4 @@
-# Question to Questions AI
+# Question to Questions 
 
 `Question to Questions` is an system prompt designed to make an AI model to do step-by-step responses to user queries. 
 
